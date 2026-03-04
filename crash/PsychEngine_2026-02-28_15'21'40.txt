@@ -1,6 +1,0 @@
-C:\HaxeToolkit\haxe\std/cpp/_std/sys/FileSystem.hx (line 35)
-gamejolt/GameJoltGroup.hx (line 634)
-
-Uncaught Error: Could not rename
-
-> Crash Handler written by: sqirra-rng
