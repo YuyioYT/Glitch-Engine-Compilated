@@ -2,7 +2,7 @@ This Engine is a fusion of various famous engines grabbing the best things of th
 
 Glitch engine features:
 
-PNG, JPG (and JPEG), Webp, Gif, bmp, tga Images Support
+PNG, JPG (and JPEG), Webp, Gif, bmp, tga Images Support (just in mod folder exept PNG)
 
 MP3, Wav and Flac, OGG Support
 
@@ -19,6 +19,8 @@ Psych engine: i dont need to explain the base of the engine is psych engine
 ///////////////////////////
 
 Codename engine: 
+
+Black windows borders
 
 SoftCode .hx (T bar engine help), 
 
