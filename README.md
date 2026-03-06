@@ -10,6 +10,8 @@ New more easy editor access with 7 (Unfinished)
 
 Full screen with F11
 
+Resolution (480p,720p,1080p,2k) (Unfinished)
+
 GameJolt support 8 in the main menu (very unfinished and alpha)
 
 //////////////////////////
