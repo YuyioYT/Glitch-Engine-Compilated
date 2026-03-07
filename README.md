@@ -14,6 +14,8 @@ Resolution (480p,720p,1080p,2k) (Unfinished)
 
 GameJolt support 8 in the main menu (very unfinished and alpha)
 
+Source code editor (alpha)
+
 //////////////////////////
 
 Psych engine: i dont need to explain the base of the engine is psych engine
