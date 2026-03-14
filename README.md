@@ -6,11 +6,13 @@ PNG, JPG (and JPEG), Webp, Gif, bmp, tga Images Support (just in mod folder exep
 
 MP3, Wav and Flac, OGG Support
 
-New more easy editor access with 7 (Unfinished)
+New more easy editor access with 7
 
 Full screen with F11
 
-Resolution (480p,720p,1080p,2k) (Unfinished)
+Resolution (480p,720p,1080p,2k)
+
+Winning icon, ultra winning icon support
 
 GameJolt support 8 in the main menu (very unfinished and alpha)
 
@@ -25,6 +27,8 @@ Psych engine: i dont need to explain the base of the engine is psych engine
 Codename engine: 
 
 Black windows borders
+
+Character editor
 
 SoftCode .hx (T bar engine help), 
 
